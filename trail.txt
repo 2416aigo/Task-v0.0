@@ -5,5 +5,7 @@ git is awesome!
 
 it is useful!
 
+some-more info
+some=more n more
 
 Thankxxx!
